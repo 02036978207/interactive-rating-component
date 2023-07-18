@@ -14,12 +14,13 @@
 
 body{
     display: flex;
-    justify-content: center;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     background-color: var(--Very-dark-blue);
     color: var(--Light-grey);
     font-family: 'Overpass', sans-serif;
+    margin: 200px;
     
 
 }
